@@ -1,0 +1,17 @@
+[ {
+  "nombre" : "Mariana",
+  "apellido" : "Fernandez",
+  "edad" : 33,
+  "barrio" : "Las Lilas",
+  "dni" : "123456789",
+  "ocupacion" : "Estudiante",
+  "kit" : 441
+}, {
+  "nombre" : "Leo",
+  "apellido" : "Chiesa",
+  "edad" : 33,
+  "barrio" : "Las Lilas",
+  "dni" : "12345",
+  "ocupacion" : "Estudiante",
+  "kit" : 341
+} ]
